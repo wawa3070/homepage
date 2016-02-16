@@ -1,0 +1,9 @@
+category,name,url
+Doc,Python,https://docs.python.org/2/
+Doc,C++,http://www.cplusplus.com/doc/
+Doc,Java,https://docs.oracle.com/javase/7/docs/api/
+Doc,http://docs.scala-lang.org/,https://docs.oracle.com/javase/7/docs/api/
+News,CNN,http://www.cnn.com/
+News,NewYorkTime,http://www.nytimes.com/
+News,GNews,https://news.google.com/
+Learn,PublicSpeaking,https://www.coursera.org/learn/public-speaking/home/welcome
