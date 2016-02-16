@@ -1,10 +1,9 @@
 # homepage
 home_html_to_csv.py converts simple html to a csv file.
 home_csv_to_html.py sorts the content and convert them to a html file.
-I use home_html_to_csv.py to convert my urls to cvs once. Then I will add url to csv 
-file whenever I found a useful link and use home_csv_to_html.py to sort them and produce
-a clean home.html.
 
+I use home_html_to_csv.py to convert my urls to cvs once. Then, I add url to csv file
+whenever I find a useful link and use home_csv_to_html.py to produce a clean home.html.
 
 Dependence:
 We use Beautiful Soup to convert html to dictionary like object. 
